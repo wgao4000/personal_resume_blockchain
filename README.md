@@ -1,2 +1,3 @@
-# personal_resume_blockchain
-The project provides a set of API for building and accessing personal resume blockchain  
+# personal_resume_blockchain by Weizheng Gao and Fred Wu at West Virginia State University (2022).
+The project provides a set of API for building and accessing personal resume blockchain. 
+Employers and organizations, schools at all levels call the API during registration to create resume blocks for employees or students when recruiting new employees and students, and encapsulate blocks when employees or students leave.Those blocks will saved in all previous cemployers, schools and socail media platforms with different access right.The APIs provided by this project include, create and encapsulate block APIs,access APIs with different permissions,etc.
